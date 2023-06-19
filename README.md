@@ -2,4 +2,4 @@
 
 # Participantes
 
-Carlos Kaynan, Humberto Campos, Eduarda Lima.
+Carlos Kaynan, Guilherme Caio, Humberto Campos, Eduarda Lima, Pauline Duarte.
